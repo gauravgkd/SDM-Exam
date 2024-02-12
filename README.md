@@ -1,4 +1,4 @@
-# SDM-Exam
+# Swapping of Two Numbers in Java
 
 This Repo Includes a Eclipse based Java Project in which it contain one simple program of Swapping of two numbers.
 
